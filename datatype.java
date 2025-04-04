@@ -8,6 +8,7 @@ public class datatype {
         char d='A';
         String e="My name is sujnya";
 
+        System.out.println("DATATYPES");
         System.out.println("Integer: "+a);
         System.out.println("Float: "+b);
         System.out.println("Boolean: "+c);
